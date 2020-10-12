@@ -1,6 +1,28 @@
 ## Hola, I'm Ajay Saini! 👋
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaysaini1999&label=Views&color=blue&style=plastic" alt="ajaysaini" /> </p>
+
+<a href="https://twitter.com/Sasta_En_gineeR">
+  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ajay-saini-18b7391a0/">
+  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/AjaySaini1999">
+  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href="https://www.instagram.com/a_je_saini/">
+  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100036355295470">
+  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<br/>
+<br/>
+
+
 
 
 - 🔭 I’m currently Studying in  [I.P College Campus 2 ](http://ipcollegebsr.org/new/index.html).
@@ -10,7 +32,6 @@
 
 [![Twitter: ajaySaini](https://img.shields.io/twitter/follow/Sasta_En_gineeR?style=social)](https://twitter.com/Sasta_En_gineeR)
 [![Linkedin: ajaysaini](https://img.shields.io/badge/-ajaysaini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajay-saini-18b7391a0/)](https://www.linkedin.com/in/ajay-saini-18b7391a0/)
-[![Instagram ajaysaini](https://img.shields.io/instagram/followers/ajay?label=follow&style=social)](https://www.instagram.com/a_je_saini/)
 [![GitHub ajaysaini](https://img.shields.io/github/followers/ajaysaini1999?label=follow&style=social)](https://github.com/AjaySaini1999)
 
 
