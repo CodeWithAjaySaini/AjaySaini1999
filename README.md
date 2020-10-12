@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday .
 
 [![Twitter: ajaySaini](https://img.shields.io/twitter/follow/Sasta_En_gineeR?style=social)](https://twitter.com/Sasta_En_gineeR)
-[![Linkedin: ajaysaini](https://img.shields.io/badge/-ajay-saini -blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajay-saini-18b7391a0/)](https://www.linkedin.com/in/ajay-saini-18b7391a0/)
+[![Linkedin: ajaysaini](https://img.shields.io/badge/-ajay-saini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajay-saini-18b7391a0/)](https://www.linkedin.com/in/ajay-saini-18b7391a0/)
 [![GitHub ajaysaini](https://img.shields.io/github/followers/ajaysaini1999?label=follow&style=social)](https://github.com/AjaySaini1999)
 
 
