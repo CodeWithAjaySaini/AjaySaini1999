@@ -58,6 +58,12 @@
 
 ### Show some ❤️ by starring some of the repositories!
 
+No Hugs Only Bugs 🐛
+No Fun & Rest Only Run & Test 😈
+No Chill Mode, Only Code 🖤
+No Dates Only Updates ⏫
+No Love & Grow Only Stack Overflow
+
 </div>
 
 
