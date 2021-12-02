@@ -25,7 +25,7 @@
 
 
 
-- 🔭 I’m currently Studying in  [I.P College Campus 2 ](http://ipcollegebsr.org/new/index.html).
+- 🔭 I passed out BCA From  [I.P College Campus 2 ](http://ipcollegebsr.org/new/index.html).
 - 🌱 I’m currently learning more about Django.
 - 🤔 I’m looking for a Job.
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday .
