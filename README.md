@@ -26,7 +26,7 @@
 
 
 - 🔭 I passed out BCA From  [I.P College Campus 2 in 2020 with Percentage of marks 60% ](http://ipcollegebsr.org/new/index.html).
-- 🌱 I Have Pyhton And Djnago Certificate From Cepta Infotech.
+- 🌱 I Have Pyhton And Django Certificate From Cepta Infotech.
 - 🤔 I’m Fresher and looking for a Job.
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday .
 
